@@ -1,10 +1,8 @@
 package com.lee.toyspring.ioc.xml;
 
-import com.lee.toyspring.ioc.component.Car;
-import com.lee.toyspring.ioc.component.Wheel;
+import com.lee.toyspring.component.Car;
+import com.lee.toyspring.component.Wheel;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 public class XmlBeanFactoryTest {
 

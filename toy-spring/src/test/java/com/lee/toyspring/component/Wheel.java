@@ -1,4 +1,4 @@
-package com.lee.toyspring.ioc.component;
+package com.lee.toyspring.component;
 
 /**
  * @author WangLe
